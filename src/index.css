@@ -1,0 +1,11 @@
+body {
+  background-image: linear-gradient(
+      rgba(98, 70, 137, 0.3),
+      rgba(98, 70, 137, 0.3)
+    ),
+    url(https://cdn.wallpapersafari.com/73/48/CA4ZN9.jpg);
+
+  background-attachment: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+}

@@ -1,0 +1,25 @@
+.drum-container {
+  display: grid;
+  grid-template-columns: 90px 90px 90px;
+  grid-template-rows: 90px 90px 90px;
+}
+
+.drum-text {
+  color: white;
+  text-align: center;
+}
+
+.drum-pad {
+  margin-right: 6px;
+  color: white;
+  font-size: 30px;
+  /* background-color: rgba(0, 0, 0, 0); */
+  background: transparent;
+  border: 1px solid white;
+  border-radius: 50%;
+  padding: 25px;
+}
+
+.drum-pad:focus {
+  outline: none;
+}
